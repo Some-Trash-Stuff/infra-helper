@@ -4,9 +4,9 @@ import (
 	"context"
 	"database/sql"
 	"fmt"
-	"infra-helper/configs"
 	"log"
 
+	"github.com/Some-Trash-Stuff/infra-helper/configs"
 	_ "github.com/microsoft/go-mssqldb"
 )
 
