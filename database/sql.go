@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Some-Trash-Stuff/infra-helper/internal/configs"
+	"github.com/dev-bitchens/infra-helper/internal/configs"
 	_ "github.com/microsoft/go-mssqldb"
 )
 

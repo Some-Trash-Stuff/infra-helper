@@ -1,4 +1,4 @@
-module github.com/Some-Trash-Stuff/infra-helper
+module github.com/dev-bitchens/infra-helper
 
 go 1.25.5
 

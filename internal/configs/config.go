@@ -1,7 +1,7 @@
 package configs
 
 import (
-	config_helper "github.com/Some-Trash-Stuff/infra-helper/configs"
+	config_helper "github.com/dev-bitchens/infra-helper/configs"
 )
 
 type AppSettings struct {
